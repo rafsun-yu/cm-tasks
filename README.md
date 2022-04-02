@@ -1,7 +1,7 @@
 ## Work / Project Examples
 
 ### Grade Tracker (Solo Project)
-A website that provides students insights on their academic performance. For example, telling required scores on final exam to achieve an A+.
+A website that provides students insights on their academic performance. For example, calculating required scores on final exam to achieve an A+.
 
 Contribution:
 * Designed the database schema, and as a result created the ER diagram. Then, translated the schema to relations in PostgreSQL database. 
