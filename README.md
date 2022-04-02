@@ -41,5 +41,5 @@ _Links: [Source](https://github.com/openjdk/jfx), [Website](https://openjfx.io/)
 I would love to focus mostly on developing backend features. I would spend time studying the code base before I start contributing. In order to complete the implementation of the features, I would learn the backend tools used by the team with the help of online resources and documentation. I would also be able to spend time on the frontend if required.
 
 ## Code Challenge
-[GitHub](https://github.com/rafsun-yu/cm-coding-assessment), [CodeSandbox](https://codesandbox.io/s/github/rafsun-yu/cm-coding-assessment)
+[GitHub](https://github.com/rafsun-yu/cm-coding-assessment), [CodeSandbox](https://codesandbox.io/s/lchn3l)
 
